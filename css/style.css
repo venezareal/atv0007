@@ -1,0 +1,27 @@
+/*Página do reset de CSS*/
+html,
+body,
+header,
+main,
+footer,
+h1,
+p {
+    margin: 5px;
+    padding: 5px;
+    border: 0px;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Fim do reset de CSS*/
+
+body {
+    background: slateblue;
+    color: lawngreen;
+}
+
+header,
+footer {
+    background: greenyellow;
+    color: brown;
+}
